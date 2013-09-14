@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.4">
+<eagle version="6.5.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -4116,8 +4116,8 @@ This is the "EZ" version, which has limited top masking for improved ease of ass
 <part name="16_7" library="SparkFun-Connectors" deviceset="M03" device="1X03_NO_SILK"/>
 <part name="GND22" library="supply1" deviceset="GND" device=""/>
 <part name="P+23" library="SparkFun-Aesthetics" deviceset="3.3V" device=""/>
-<part name="C8" library="SparkFun-Capacitors" deviceset="CAP" device="EZ" value="0.1uF"/>
-<part name="C9" library="SparkFun-Capacitors" deviceset="CAP" device="EZ" value="0.1uF"/>
+<part name="C8" library="SparkFun-Capacitors" deviceset="CAP" device="EZ" value="22pF"/>
+<part name="C9" library="SparkFun-Capacitors" deviceset="CAP" device="EZ" value="22pF"/>
 <part name="Y1" library="SparkFun-FreqCtrl" deviceset="CRYSTAL" device="HC49US" value="16MHz"/>
 <part name="VCC+" library="SparkFun-Connectors" deviceset="M01" device="PTH_2MM"/>
 <part name="VCC-" library="SparkFun-Connectors" deviceset="M01" device="PTH_2MM"/>
