@@ -627,7 +627,7 @@ Please make sure your boards conform to these design rules.</description>
 <element name="R3" library="SparkFun-Resistors" package="AXIAL-0.3EZ" value="56k" x="24.13" y="3.81" smashed="yes" rot="R180">
 <attribute name="VALUE" x="22.86" y="3.302" size="1.016" layer="21" font="vector" ratio="15"/>
 </element>
-<element name="C6" library="SparkFun-Capacitors" package="CAP-PTH-SMALLEZ" value="1uF" x="20.32" y="6.35" smashed="yes">
+<element name="C6" library="SparkFun-Capacitors" package="CAP-PTH-SMALLEZ" value="0.1uF" x="20.32" y="6.35" smashed="yes">
 <attribute name="VALUE" x="19.05" y="3.81" size="0.6096" layer="27"/>
 </element>
 <element name="25" library="SparkFun-Connectors" package="1X03_NO_SILK" value="" x="7.62" y="43.18" smashed="yes" rot="R180">

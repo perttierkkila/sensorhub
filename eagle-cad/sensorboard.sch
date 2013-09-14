@@ -4060,7 +4060,7 @@ This is the "EZ" version, which has limited top masking for improved ease of ass
 <part name="R2" library="SparkFun-Resistors" deviceset="RESISTOR" device="EZ" value="100k"/>
 <part name="R3" library="SparkFun-Resistors" deviceset="RESISTOR" device="EZ" value="56k"/>
 <part name="GND5" library="supply1" deviceset="GND" device=""/>
-<part name="C6" library="SparkFun-Capacitors" deviceset="CAP" device="EZ" value="1uF"/>
+<part name="C6" library="SparkFun-Capacitors" deviceset="CAP" device="EZ" value="0.1uF"/>
 <part name="GND7" library="supply1" deviceset="GND" device=""/>
 <part name="25" library="SparkFun-Connectors" deviceset="M03" device="1X03_NO_SILK"/>
 <part name="GND8" library="supply1" deviceset="GND" device=""/>
